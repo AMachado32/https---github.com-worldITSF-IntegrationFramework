@@ -18,10 +18,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Layout</name>
     </types>
     <version>57.0</version>
